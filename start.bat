@@ -1,0 +1,1 @@
+C:\Users\18098\AppData\Local\Programs\Python\Python38-32\python.exe D:\project_Python\BackupISOGD\cmd_admin.py
